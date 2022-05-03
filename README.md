@@ -1,0 +1,4 @@
+# RecyclerViewDemo
+这是一个RecyclerView的案例
+它实现了StaggeredView、GridLayoutView、ListView以及多种列表组合。
+实现了下拉刷新。
